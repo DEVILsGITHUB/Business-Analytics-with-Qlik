@@ -5,6 +5,7 @@ Dataset link :-  https://www.kaggle.com/datasets/shashwatwork/dataco-smart-suppl
 
 Drive link  :-   https://drive.google.com/drive/folders/1qfPv34b7I7BCluHDYYgzYKjBdEA7xK_n?usp=sharing
 
+VISUALIZATIONS:-
 
 ![sales](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/b32fbee9-a0e8-47d8-ac3f-cb1d5c5bcb17)
 
@@ -38,6 +39,7 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![Analysis order region](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/aed2fd55-4c98-4f7e-97d7-e0610cb6e18b)
 
+DASHBOARDS:-
 
 ![DASHBOARD 1](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/da427350-0867-4518-8fc2-31f4c938956e)
 
@@ -46,6 +48,8 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 
 ![DASHBOARD 3](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/5c3197bc-6154-4c0e-bfeb-1f7e298c081f)
+
+STORY TELLING:- 
 
 ![Story (0)](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/d23c7c00-0e81-4708-a1f6-f6edaab00d9c)
 
@@ -63,3 +67,6 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![Story (7)](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/0e1e25c5-3d3c-4af6-b20b-bdf5e410487c)
 
+PROJECT DOCUMENTATION :- https://drive.google.com/file/d/1iZSWHVx4UKz-y_p8wBp6I9r-ofLexzxw/view?usp=sharing
+
+DEMONSTRATION LINK :-
