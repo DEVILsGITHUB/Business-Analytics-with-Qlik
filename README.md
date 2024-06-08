@@ -83,6 +83,6 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![Story (7)](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/0e1e25c5-3d3c-4af6-b20b-bdf5e410487c)
 
-**PROJECT DOCUMENTATION **:- https://drive.google.com/file/d/1iZSWHVx4UKz-y_p8wBp6I9r-ofLexzxw/view?usp=sharing
+**PROJECT DOCUMENTATION **:- https://drive.google.com/file/d/1qFqdeULb4CexiCUUMr2ATU3WQQBILNFH/view?usp=sharing
 
 DEMONSTRATION LINK :-
