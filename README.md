@@ -3,11 +3,11 @@ Data-Driven Innovations In Supply Chain Management With Qlik Insights
 
 #Link
 
-Dataset link :-  https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
+**Dataset link** :-  https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data
 
-Dataset Drive link  :-   https://drive.google.com/drive/folders/1qfPv34b7I7BCluHDYYgzYKjBdEA7xK_n?usp=sharing
+**Dataset Drive link**  :-   https://drive.google.com/drive/folders/1qfPv34b7I7BCluHDYYgzYKjBdEA7xK_n?usp=sharing
 
-Processed dataset link :- 
+**Processed dataset link** :- 
 
 https://vdj2bpdlkbdt74s.sg.qlikcloud.com/dataset/6655b72b1ce4e66bd151fade
 
@@ -19,9 +19,9 @@ https://vdj2bpdlkbdt74s.sg.qlikcloud.com/dataset/6655b72b46610ddd63164e1d
 
 https://vdj2bpdlkbdt74s.sg.qlikcloud.com/dataset/665465e394479048b89bd0d3
 
-Processed dataset drive link :- https://drive.google.com/drive/folders/1uPdhp7YCwIysKMeOXtC-rCw3mRpuvIHr?usp=sharing
+**Processed dataset drive link** :- https://drive.google.com/drive/folders/1uPdhp7YCwIysKMeOXtC-rCw3mRpuvIHr?usp=sharing
 
-#VISUALIZATIONS:-
+**#VISUALIZATIONS**:-
 
 ![sales](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/b32fbee9-a0e8-47d8-ac3f-cb1d5c5bcb17)
 
@@ -38,7 +38,7 @@ Processed dataset drive link :- https://drive.google.com/drive/folders/1uPdhp7YC
 ![Total items placed by a state](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/a4d74747-8fbb-4c35-b0f9-4cd06aac3d0e)
 
 
-m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/2d0abf29-5ddc-4f0a-8026-737797556459)
+![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/2d0abf29-5ddc-4f0a-8026-737797556459)
 
 
 ![Mode of payment](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/ea997dd7-435e-4471-a19e-02e06c6be36a)
@@ -55,7 +55,7 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![Analysis order region](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/aed2fd55-4c98-4f7e-97d7-e0610cb6e18b)
 
-#DASHBOARDS:-
+**#DASHBOARDS**:-
 
 ![DASHBOARD 1](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/da427350-0867-4518-8fc2-31f4c938956e)
 
@@ -65,7 +65,7 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![DASHBOARD 3](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/5c3197bc-6154-4c0e-bfeb-1f7e298c081f)
 
-#STORY TELLING:- 
+**#STORY TELLING**:- 
 
 ![Story (0)](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/d23c7c00-0e81-4708-a1f6-f6edaab00d9c)
 
@@ -83,6 +83,6 @@ m![Analysis on ccustomer segment ](https://github.com/DEVILsGITHUB/Business-Anal
 
 ![Story (7)](https://github.com/DEVILsGITHUB/Business-Analytics-with-Qlik/assets/145640143/0e1e25c5-3d3c-4af6-b20b-bdf5e410487c)
 
-**PROJECT DOCUMENTATION **:- https://drive.google.com/file/d/1qFqdeULb4CexiCUUMr2ATU3WQQBILNFH/view?usp=sharing
+**PROJECT DOCUMENTATION**:- https://drive.google.com/file/d/1qFqdeULb4CexiCUUMr2ATU3WQQBILNFH/view?usp=sharing
 
-DEMONSTRATION LINK :-
+**DEMONSTRATION LINK** :- https://drive.google.com/file/d/1JTMdjRvuv0COf-zCteXtglVqx4BBp-Y5/view?usp=sharing
